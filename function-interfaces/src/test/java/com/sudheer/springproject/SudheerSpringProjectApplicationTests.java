@@ -1,13 +1,14 @@
-package com.sudheer.patnana.sudheerspringproject;
+package com.sudheer.springproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SudheerSpringProjectApplicationTests {
+class SpringProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
